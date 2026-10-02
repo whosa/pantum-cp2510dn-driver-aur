@@ -2,5 +2,6 @@ Pantum printer driver, repackaged from the vendor's official
 pantum_7.4.170-1+1nfs1+sv_amd64.deb release.
 
 The vendor binary is copyright (c) Zhuhai Pantum Electronics Co., Ltd
-and is redistributed here unmodified apart from relocation and
-stripping. See /usr/share/licenses/pantum/LICENSE.
+and is redistributed here unmodified apart from relocation, stripping
+and the addition of RUNPATH entries to the vendor's own helper
+binaries. See /usr/share/licenses/pantum/LICENSE.
