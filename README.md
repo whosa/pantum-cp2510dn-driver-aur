@@ -114,3 +114,8 @@ JavaScript 反爬挑战页而非文件，需要浏览器 UA 和 Referer 才能�
 
 二进制部分版权归珠海奔图电子有限公司所有，本项目仅做重新打包、路径修正
 和 RUNPATH 设置。详见 `LICENSE`。
+
+## 维护者
+
+改包前请先看 [MAINTAINER-NOTES.md](MAINTAINER-NOTES.md)，记录了驱动选型理由、
+不能改动的路径约束，以及几个会导致「静默渲染 0 页」的坑。
